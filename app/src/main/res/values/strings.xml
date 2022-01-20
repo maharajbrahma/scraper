@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scraper</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="scarper1">CS5055</string>
+    <string name="scraper2">CS69</string>
+</resources>
